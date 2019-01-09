@@ -1,4 +1,4 @@
-var request = require('request');
+var request = require('request-promise');
 var gitlab_private_token = process.env.token;
 
 
